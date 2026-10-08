@@ -1,0 +1,1542 @@
+[
+ {
+  "id": "298cc23a-40bf-4884-a5ce-4ab580c00654",
+  "name": "Lavado, secado o encerado de autos",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "35d4999f-4660-4dda-af0a-bae27eb09994",
+  "name": "Limpieza o mantenimiento de aire acondicionado",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "6241cff7-7d96-4357-b3c2-77df1d614408",
+  "name": "Instalación de aire acondicionado",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "22d1338c-9a8e-45e1-8369-696ce314f8ae",
+  "name": "Montaje de amplificación o PA",
+  "categories": [
+   {
+    "slug": "event-venue",
+    "label": "Eventos o Salas de Espectáculos"
+   }
+  ]
+ },
+ {
+  "id": "5a58ec1c-6e38-4277-b7e9-56b9333b735b",
+  "name": "Limpieza de corrales o retiro de desechos",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "3c2c1859-a148-4d36-b5a0-f953451a9231",
+  "name": "Aplicación de Lechada Entre Azulejos de Piso",
+  "categories": [
+   {
+    "slug": "construction-fluffle",
+    "label": "Colocación de pisos y azulejos"
+   }
+  ]
+ },
+ {
+  "id": "2f260ed1-c6b2-4de6-a3f1-70f1eff87cc1",
+  "name": "Aplicar Etiquetas",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "5a4d8928-da04-460c-a442-73f7556b79be",
+  "name": "Diseño e Instalación de Arcos",
+  "categories": [
+   {
+    "slug": "florist",
+    "label": "Florista"
+   }
+  ]
+ },
+ {
+  "id": "06eff93c-8e01-4ea7-bf8e-fc9069d9c791",
+  "name": "Detallado automotriz",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "0ffdd546-c940-4b39-8f29-45e86021e889",
+  "name": "Cableado o montaje de sonido o iluminación",
+  "categories": [
+   {
+    "slug": "event-venue",
+    "label": "Eventos o Salas de Espectáculos"
+   }
+  ]
+ },
+ {
+  "id": "7a952805-0063-40b9-9fdf-cbeba640db0a",
+  "name": "Producción de panadería",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "35acf81e-a218-40bb-bf6c-3703b44fd1c5",
+  "name": "Mantenimiento de Bicicletas",
+  "categories": [
+   {
+    "slug": "bike-services",
+    "label": "Servicios de Bicicletas"
+   }
+  ]
+ },
+ {
+  "id": "38f3906a-e4b6-4f7e-908d-d1f333373980",
+  "name": "Acondicionamiento de Neumáticos de Bicicleta",
+  "categories": [
+   {
+    "slug": "bike-services",
+    "label": "Servicios de Bicicletas"
+   }
+  ]
+ },
+ {
+  "id": "75115981-b7ba-4dbb-a30a-942981cf44f2",
+  "name": "Fresado del Cuerpo y Modificación de Cavidades",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "5319b719-905d-4ef4-9787-58afe6ac95ae",
+  "name": "Boutonnieres y Flores Personales",
+  "categories": [
+   {
+    "slug": "florist",
+    "label": "Florista"
+   }
+  ]
+ },
+ {
+  "id": "85540535-c281-47e3-8ab6-feaa8f146895",
+  "name": "Armado de viandas",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "84849b3b-cade-4ef1-b814-4cf12f2e3aa7",
+  "name": "Punto Ladrillo",
+  "categories": [
+   {
+    "slug": "beadwork-jewelry",
+    "label": "Bisutería y joyería (trabajo con cuentas)"
+   }
+  ]
+ },
+ {
+  "id": "687c8a2a-2024-4c76-9af6-0c6dcfeada86",
+  "name": "Ramos para la Novia y su Cortejo",
+  "categories": [
+   {
+    "slug": "florist",
+    "label": "Florista"
+   }
+  ]
+ },
+ {
+  "id": "f2950f75-8df6-418f-b94c-02ba3f2905a1",
+  "name": "Desbroce o deshierbe",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "07de03a6-3dea-4416-b18a-7455cfded2ba",
+  "name": "Corte de Carne de Carnicería",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "967381af-cbfd-43b4-91a7-320f9ba08d87",
+  "name": "Decoración de pasteles",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "47ad648e-9b96-4713-8a5f-891dfb55b995",
+  "name": "Recubrimiento de Dulces",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "c43eb223-572c-441f-b1a7-5ca736934dcf",
+  "name": "Limpieza interior del auto",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "6988ae27-1895-491f-9ebf-268708677758",
+  "name": "Recolección de carritos o canastas",
+  "categories": [
+   {
+    "slug": "retail-store-back-of-house",
+    "label": "Comercio Minorista"
+   }
+  ]
+ },
+ {
+  "id": "7934f7a2-c258-44e2-a2cb-d5afa59981db",
+  "name": "Esmaltado de Cerámica",
+  "categories": [
+   {
+    "slug": "ceramics-production",
+    "label": "Producción de cerámica"
+   }
+  ]
+ },
+ {
+  "id": "78c908ca-facd-48a0-a540-034728c8c650",
+  "name": "Vaciado de Moldes de Cerámica",
+  "categories": [
+   {
+    "slug": "ceramics-production",
+    "label": "Producción de cerámica"
+   }
+  ]
+ },
+ {
+  "id": "fc64e58f-c62f-44bc-a7b4-022914131ed3",
+  "name": "Limpieza y Acabado de Piezas de Cerámica",
+  "categories": [
+   {
+    "slug": "ceramics-production",
+    "label": "Producción de cerámica"
+   }
+  ]
+ },
+ {
+  "id": "cbd984e9-7e42-48dc-ae30-8f1ba2fffdc8",
+  "name": "Pintura de Piezas de Cerámica",
+  "categories": [
+   {
+    "slug": "ceramics-production",
+    "label": "Producción de cerámica"
+   }
+  ]
+ },
+ {
+  "id": "1577805d-f499-4bef-832a-2be5233ec7ab",
+  "name": "Ensamblaje de Sillas",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "f3cbf822-c58d-49fe-8c5a-488821a2d258",
+  "name": "Pintura de Sillas",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "877c455f-cc66-4cd0-bf4c-4c22c4f1a0f1",
+  "name": "Pintura de Sillas (Madera)",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "e8fc6af8-332d-466d-ba80-4696fb7015c0",
+  "name": "Lijado de Sillas (Madera)",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "4623f867-ad8a-4a7f-aae8-0932ab44c4f4",
+  "name": "Sellado de Sillas (Madera)",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "3cc3d012-cb09-4622-9d34-ac7ec98f8258",
+  "name": "Teñido de Sillas (Madera)",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "58abb290-ff68-47f9-86c9-36a0c091a167",
+  "name": "Análisis de laboratorio de productos",
+  "categories": [
+   {
+    "slug": "pharmaceutical-or-chemical-lab",
+    "label": "Farmacéutica o Laboratorio Químico"
+   }
+  ]
+ },
+ {
+  "id": "2a26e595-6a10-4505-b894-6885cdc89657",
+  "name": "Fabricación de Puros",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "bfe5c43d-7387-4793-ad4b-07ea799990a3",
+  "name": "Limpieza o reposición de baños",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "92f635fe-d7a7-49ac-893e-df50183f76d8",
+  "name": "Mantenimiento de la Tostadora de Café",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "ae22d3fe-0dc4-440d-b620-0b75b0d47c6f",
+  "name": "Tostado de Café",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "837fbaff-cb83-45f8-8768-32102e6d1048",
+  "name": "Ensamblaje de muebles comerciales",
+  "categories": [
+   {
+    "slug": "carpentry-furniture-workshop",
+    "label": "Carpintería, Ebanistería o Madera"
+   }
+  ]
+ },
+ {
+  "id": "7156a6c7-8e9d-4ce2-8ec7-b4c81ddc2fba",
+  "name": "Cosecha, siembra o clasificación",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "b1551c47-eabe-411f-ae9d-1b14f51a138b",
+  "name": "Ensamblaje de Cojines",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "33eca089-c586-432d-b051-ba686115638d",
+  "name": "Corte y preparación de materiales",
+  "categories": [
+   {
+    "slug": "textiles-leather-footwear",
+    "label": "Textiles, cuero y calzado"
+   }
+  ]
+ },
+ {
+  "id": "72783261-3598-43d8-a627-30ebe6641b97",
+  "name": "Corte, lijado o acabado de madera",
+  "categories": [
+   {
+    "slug": "carpentry-furniture-workshop",
+    "label": "Carpintería, Ebanistería o Madera"
+   }
+  ]
+ },
+ {
+  "id": "eb1c250c-afde-42fe-9b50-7b46a30551b3",
+  "name": "Reparación de Dispositivos",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "f9cdf2b9-4528-4a33-81b3-2bfa1d70c4f8",
+  "name": "Instalación de drywall",
+  "categories": [
+   {
+    "slug": "active-construction-site",
+    "label": "Construcción"
+   }
+  ]
+ },
+ {
+  "id": "f6dd587c-b4dd-473b-9b50-c4e7901ba9a1",
+  "name": "Recolección de huevos",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "3cfd1d9e-1e50-46fc-9c78-b5482910b060",
+  "name": "Bordado",
+  "categories": [
+   {
+    "slug": "textiles-leather-footwear",
+    "label": "Textiles, cuero y calzado"
+   }
+  ]
+ },
+ {
+  "id": "7a186538-4f8e-4177-8cda-dc9da6c405b6",
+  "name": "Lavado de equipos",
+  "categories": [
+   {
+    "slug": "food-beverage-manufacturing-plant",
+    "label": "Planta de Alimentos o Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "098600c0-14ce-4053-98bb-1b7b0204cff5",
+  "name": "Limpieza de baños de evento",
+  "categories": [
+   {
+    "slug": "event-venue",
+    "label": "Eventos o Salas de Espectáculos"
+   }
+  ]
+ },
+ {
+  "id": "d9a2f7b2-6ee8-422a-ade1-3605a0115fe2",
+  "name": "Diseño de cejas o pestañas",
+  "categories": [
+   {
+    "slug": "personal-care-grooming-services",
+    "label": "Servicios de Salón, Spa o Mascotas"
+   }
+  ]
+ },
+ {
+  "id": "761537d2-b458-4f00-92b8-194681b3a1bf",
+  "name": "Operación de la Máquina de Dulces Rellenos",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "9f14c500-41ad-423c-b97d-d44c0f6224e8",
+  "name": "Reparación de Acabados",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "c67376bf-00e4-4e4e-9078-19f5e6b76ebe",
+  "name": "Enlechado de Azulejos de Piso",
+  "categories": [
+   {
+    "slug": "construction-fluffle",
+    "label": "Colocación de pisos y azulejos"
+   }
+  ]
+ },
+ {
+  "id": "8e07da9e-780d-4bd0-a029-0e01b2347a28",
+  "name": "Entrega de Flores y Montaje en el Lugar",
+  "categories": [
+   {
+    "slug": "florist",
+    "label": "Florista"
+   }
+  ]
+ },
+ {
+  "id": "88b8a81e-4b53-4b67-ba0d-8a7893b785d3",
+  "name": "Procesamiento y Preparación de Flores",
+  "categories": [
+   {
+    "slug": "florist",
+    "label": "Florista"
+   }
+  ]
+ },
+ {
+  "id": "b463c25a-ed1f-4144-bb6a-4ad00dc404d7",
+  "name": "Empaque o sellado de alimentos",
+  "categories": [
+   {
+    "slug": "food-beverage-manufacturing-plant",
+    "label": "Planta de Alimentos o Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "8f1f4d0a-ce12-4700-8d3f-0304131f5315",
+  "name": "Preparación previa de alimentos",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "9fedfcbf-4631-4c11-97ae-d7d965f197d9",
+  "name": "Mostrador de perecederos",
+  "categories": [
+   {
+    "slug": "retail-store-back-of-house",
+    "label": "Comercio Minorista"
+   }
+  ]
+ },
+ {
+  "id": "b6577b0c-1330-4a70-b463-e51ba2e78d4e",
+  "name": "Incrustaciones en el Diapasón",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "0a2bb27c-9bbe-439a-8f92-9f21bb6aaa46",
+  "name": "Trabajo de Trastes",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "9b4195b5-b3a8-4264-8c18-2ababfb1e696",
+  "name": "Atención en gasolinera",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "5e44968b-2d37-4ff4-a735-7bd917710dbc",
+  "name": "Pintura de muebles",
+  "categories": [
+   {
+    "slug": "carpentry-furniture-workshop",
+    "label": "Carpintería, Ebanistería o Madera"
+   }
+  ]
+ },
+ {
+  "id": "4f2688f3-bc7c-4679-920b-d3b7f9e95653",
+  "name": "Jardinería o mantenimiento de áreas verdes",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "1313f29c-9c2c-4d29-91fd-b854c056969d",
+  "name": "Mantenimiento de campo de golf",
+  "categories": [
+   {
+    "slug": "sports-or-recreation-facility-operations",
+    "label": "Operación de Instalaciones Deportivas o Recreativas"
+   }
+  ]
+ },
+ {
+  "id": "04554415-b03e-4fcf-b0ea-2a819feafd57",
+  "name": "Cuidado de invernadero o vivero",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "178c6417-2e00-4d78-9232-3df9f3655379",
+  "name": "Corte, secado o peinado de cabello",
+  "categories": [
+   {
+    "slug": "personal-care-grooming-services",
+    "label": "Servicios de Salón, Spa o Mascotas"
+   }
+  ]
+ },
+ {
+  "id": "25ae3a06-8b7f-42c2-a2cc-c6a26314b599",
+  "name": "Limpieza de hall o áreas comunes",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "362de6ab-2d76-484b-bffd-5ee8c1214e1e",
+  "name": "Ensamblaje de Manos",
+  "categories": [
+   {
+    "slug": "botq",
+    "label": "BotQ"
+   }
+  ]
+ },
+ {
+  "id": "989c6d75-8d7a-405a-adcf-54ad4b95c31a",
+  "name": "Tratamiento de pisos",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "de78f919-54b7-4fc8-812e-b68ddeceae70",
+  "name": "Instalación de herrajes",
+  "categories": [
+   {
+    "slug": "carpentry-furniture-workshop",
+    "label": "Carpintería, Ebanistería o Madera"
+   }
+  ]
+ },
+ {
+  "id": "fc5c881b-1fe9-480d-8155-e256e95db470",
+  "name": "Limpieza profunda del baño de hotel",
+  "categories": [
+   {
+    "slug": "hotel-lodging",
+    "label": "Hotel u Hospedaje"
+   }
+  ]
+ },
+ {
+  "id": "8ee86282-3f52-45a5-9c9a-28e0ef4bf819",
+  "name": "Lavandería o ropería de hotel",
+  "categories": [
+   {
+    "slug": "hotel-lodging",
+    "label": "Hotel u Hospedaje"
+   }
+  ]
+ },
+ {
+  "id": "64478cfe-cb3d-4bad-a506-c1426bc40dab",
+  "name": "Mudanzas o traslado de muebles",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "851eb65a-003e-42d2-a410-6fc8e2d22050",
+  "name": "Operación de lavandería industrial",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "26388e70-bed5-4cfe-ba81-41ee4f996718",
+  "name": "Inspeccionar y Clasificar Productos",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "e9e945ce-b070-4af7-9977-06a8d339df16",
+  "name": "Inspección y purgado de un rollo de etiquetas",
+  "categories": [
+   {
+    "slug": "label-manufacturing",
+    "label": "Fabricación de etiquetas"
+   }
+  ]
+ },
+ {
+  "id": "9b331d9d-daa9-454e-96e0-4f4cb103cffd",
+  "name": "Instalación de llaves o sanitarios",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "7f312943-fb37-4247-ad2f-8aee406e5f4a",
+  "name": "Instalación o reparación de riego",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "536ffe29-fe38-499c-be0f-ac6a35052e8c",
+  "name": "Carga del Horno",
+  "categories": [
+   {
+    "slug": "ceramics-production",
+    "label": "Producción de cerámica"
+   }
+  ]
+ },
+ {
+  "id": "9a90f3f4-8fd1-4bf4-a9f9-f76dfc4c98f6",
+  "name": "Retiro de basura o reciclaje de la cocina",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "f3654d37-a71a-4ceb-9640-4ba0d65400f9",
+  "name": "Mantenimiento de la máquina etiquetadora",
+  "categories": [
+   {
+    "slug": "label-manufacturing",
+    "label": "Fabricación de etiquetas"
+   }
+  ]
+ },
+ {
+  "id": "a82c2a6b-9a5c-4034-964e-8f66389e70ad",
+  "name": "Operación de máquina etiquetadora",
+  "categories": [
+   {
+    "slug": "label-manufacturing",
+    "label": "Fabricación de etiquetas"
+   }
+  ]
+ },
+ {
+  "id": "fbbfbe32-faab-4595-88f5-0cfaff4efb58",
+  "name": "Configuración y calibración de la máquina etiquetadora",
+  "categories": [
+   {
+    "slug": "label-manufacturing",
+    "label": "Fabricación de etiquetas"
+   }
+  ]
+ },
+ {
+  "id": "27463d9e-fe2f-493e-a1bc-4f5e5afe9f07",
+  "name": "Punto Escalera",
+  "categories": [
+   {
+    "slug": "beadwork-jewelry",
+    "label": "Bisutería y joyería (trabajo con cuentas)"
+   }
+  ]
+ },
+ {
+  "id": "beb6ef2a-636d-4359-b724-62cdccd07360",
+  "name": "Cocina de línea",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "d9ad3c3b-320a-4e44-8553-ee5b813dca2a",
+  "name": "Manejo de ganado",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "b3b35180-efd8-490c-b6f0-d0add87f2643",
+  "name": "Carga de camiones",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "1b717430-db59-490f-a8f2-636d2750be2a",
+  "name": "Operación de máquina",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "b354239b-2da4-4f01-a97b-53c0b833ba58",
+  "name": "Arreglo o limpieza de habitaciones",
+  "categories": [
+   {
+    "slug": "hotel-lodging",
+    "label": "Hotel u Hospedaje"
+   }
+  ]
+ },
+ {
+  "id": "1c710f1e-630c-47d4-9243-8129f497e5b9",
+  "name": "Albañilería o estructura",
+  "categories": [
+   {
+    "slug": "active-construction-site",
+    "label": "Construcción"
+   }
+  ]
+ },
+ {
+  "id": "d2f5c723-50ed-4201-b4fa-a2ce3a1ca5d5",
+  "name": "Herrería o fabricación metálica",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "6b47e91b-5eec-43de-bf9e-af47713a980c",
+  "name": "Empaque de Minerales",
+  "categories": [
+   {
+    "slug": "construction-fluffle",
+    "label": "Colocación de pisos y azulejos"
+   }
+  ]
+ },
+ {
+  "id": "a78e8264-0961-4973-83ec-15843d69591c",
+  "name": "Proceso de Producción de Minerales",
+  "categories": [
+   {
+    "slug": "construction-fluffle",
+    "label": "Colocación de pisos y azulejos"
+   }
+  ]
+ },
+ {
+  "id": "5901b12f-ee45-4088-91ff-84e64631c8d0",
+  "name": "Mezcla, Preparación y Molino de Azúcar",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "701b9303-0d0e-4015-a4d6-797cb411dbf8",
+  "name": "Creación y Refinamiento de Moldes",
+  "categories": [
+   {
+    "slug": "ceramics-production",
+    "label": "Producción de cerámica"
+   }
+  ]
+ },
+ {
+  "id": "dafd1245-ee66-46eb-bf25-e94b8dc54b07",
+  "name": "Mantenimiento de motocicletas",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "954c3fc5-f610-4bc5-aa03-5168154ee58a",
+  "name": "Traslado de equipaje",
+  "categories": [
+   {
+    "slug": "hotel-lodging",
+    "label": "Hotel u Hospedaje"
+   }
+  ]
+ },
+ {
+  "id": "e062907c-e950-4600-835f-1e034d7b8378",
+  "name": "Manicura o pedicura",
+  "categories": [
+   {
+    "slug": "personal-care-grooming-services",
+    "label": "Servicios de Salón, Spa o Mascotas"
+   }
+  ]
+ },
+ {
+  "id": "e6450d7f-b58d-4046-8346-0733e159cf26",
+  "name": "Empaque de Boquillas",
+  "categories": [
+   {
+    "slug": "construction-fluffle",
+    "label": "Colocación de pisos y azulejos"
+   }
+  ]
+ },
+ {
+  "id": "05b08c2d-314d-426e-9fa9-aa5f2694631a",
+  "name": "Reemplazo de Cejilla",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "5310aeb0-6483-4a12-89e5-3aaab0d80164",
+  "name": "Cambio de aceite",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "2cdd6a97-f5b9-464a-a4fd-c9191120d1e8",
+  "name": "Preparación de pedidos",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "85a59fcf-b34d-49a8-a1e4-7f3b0a7ea8a6",
+  "name": "Empaque o paletizado",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "34e3dc99-aa8f-4398-92f3-300cc4be9f91",
+  "name": "Fabricación de tarimas, cajones o carpintería en bruto",
+  "categories": [
+   {
+    "slug": "carpentry-furniture-workshop",
+    "label": "Carpintería, Ebanistería o Madera"
+   }
+  ]
+ },
+ {
+  "id": "6d31d7ed-9aec-43ff-82d9-cdf7cb4dcc02",
+  "name": "Detallado/Recorte de Piezas",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "d1e3a143-5f9b-46b0-bb66-4bffc820c44b",
+  "name": "Rebabeo o acabado de piezas",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "4de108dd-da2f-4b2f-9cc0-6b08a94002bd",
+  "name": "Armado de Pedaleras",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "ca22a618-e285-4f4c-9bf0-3059ea328afd",
+  "name": "Baño o corte de mascotas",
+  "categories": [
+   {
+    "slug": "personal-care-grooming-services",
+    "label": "Servicios de Salón, Spa o Mascotas"
+   }
+  ]
+ },
+ {
+  "id": "33124b74-2757-41a5-9938-e6416d7b97a1",
+  "name": "Punto Peyote",
+  "categories": [
+   {
+    "slug": "beadwork-jewelry",
+    "label": "Bisutería y joyería (trabajo con cuentas)"
+   }
+  ]
+ },
+ {
+  "id": "24c87d4f-a696-4725-bb53-daeb1f8905f2",
+  "name": "Control de calidad de dispositivos farmacéuticos",
+  "categories": [
+   {
+    "slug": "pharmaceutical-or-chemical-lab",
+    "label": "Farmacéutica o Laboratorio Químico"
+   }
+  ]
+ },
+ {
+  "id": "368e35ff-b09f-43c4-97a0-9d5f2d725a45",
+  "name": "Pastillas y Electrónica",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "bdb66a48-32bf-4d1c-b4c2-03c7a1f12a79",
+  "name": "Corte o conexión de tuberías",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "79d4049f-2fad-4e89-a206-9e750d95a534",
+  "name": "Revoques, azulejos o acabados",
+  "categories": [
+   {
+    "slug": "active-construction-site",
+    "label": "Construcción"
+   }
+  ]
+ },
+ {
+  "id": "38ea4867-c030-40f2-8e81-fd087315d607",
+  "name": "Fabricación de yeso/azulejos",
+  "categories": [
+   {
+    "slug": "construction-fluffle",
+    "label": "Colocación de pisos y azulejos"
+   }
+  ]
+ },
+ {
+  "id": "909ad354-164f-48b9-a855-1ce167b7320d",
+  "name": "Fabricación de sillas de plástico",
+  "categories": [
+   {
+    "slug": "chair-manufacturing",
+    "label": "Fabricación de Sillas"
+   }
+  ]
+ },
+ {
+  "id": "dec086cb-7903-4db7-8502-abf653b3f0bc",
+  "name": "Reparación de plomería",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "bfb8b850-92be-4612-a552-333f57e50ff8",
+  "name": "Mantenimiento del área de piscina o spa",
+  "categories": [
+   {
+    "slug": "hotel-lodging",
+    "label": "Hotel u Hospedaje"
+   }
+  ]
+ },
+ {
+  "id": "8de2f6c6-8034-430f-9c1a-d373b3d81f92",
+  "name": "Control de Porciones (QA)",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "945fb7d5-314d-4d33-a8e3-15e3166c47c8",
+  "name": "Llenado de macetas",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "efc59c1a-9bee-480b-8a70-2a1633140940",
+  "name": "Preempaque",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "a3407f92-5a51-450d-ae0b-943732947f78",
+  "name": "Etiquetado de precios",
+  "categories": [
+   {
+    "slug": "retail-store-back-of-house",
+    "label": "Comercio Minorista"
+   }
+  ]
+ },
+ {
+  "id": "d87d72d6-55dd-4633-be25-b2f6589d6997",
+  "name": "Ensamblaje en línea de producción",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "49d9c278-e25b-40dd-9b63-213c620ba91c",
+  "name": "Operación de línea de producción",
+  "categories": [
+   {
+    "slug": "food-beverage-manufacturing-plant",
+    "label": "Planta de Alimentos o Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "456be3ff-7f71-48c4-bf2e-6f4d4779a711",
+  "name": "Inspección de calidad en la línea de alimentos",
+  "categories": [
+   {
+    "slug": "food-beverage-manufacturing-plant",
+    "label": "Planta de Alimentos o Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "5b256dca-c32a-4588-ac47-d488f53205fe",
+  "name": "Recepción o descarga",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "a25ded6e-1b05-4a2b-a83d-d24c0eaa9f08",
+  "name": "Selección de reciclables en línea",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "9ed534fc-3ffe-44f8-999a-7aab8128ebf7",
+  "name": "Lavado de vajilla en restaurante",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "1861eb8e-7f84-40f3-8422-affc3dec575d",
+  "name": "Limpieza de cocina de restaurante",
+  "categories": [
+   {
+    "slug": "restaurant-commercial-kitchen",
+    "label": "Restaurante o Cocina Comercial"
+   }
+  ]
+ },
+ {
+  "id": "372bf226-e900-4008-bfc7-d164959d2da8",
+  "name": "Cambio de Cuerdas y Calibración",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "b87d930f-308c-4766-ac0b-332ce6f12f55",
+  "name": "Techado o impermeabilización",
+  "categories": [
+   {
+    "slug": "active-construction-site",
+    "label": "Construcción"
+   }
+  ]
+ },
+ {
+  "id": "fd59163b-d816-4af9-a148-f88e29b463a7",
+  "name": "Reposición u organización de estantes",
+  "categories": [
+   {
+    "slug": "retail-store-back-of-house",
+    "label": "Comercio Minorista"
+   }
+  ]
+ },
+ {
+  "id": "012f4d0e-02d9-42ea-bd03-45d367f5d406",
+  "name": "Zapatería",
+  "categories": [
+   {
+    "slug": "textiles-leather-footwear",
+    "label": "Textiles, cuero y calzado"
+   }
+  ]
+ },
+ {
+  "id": "3242b404-0cb4-4e7e-848b-3869758ec2fd",
+  "name": "Fabricación de letreros",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "eeb7d4f8-2cfe-4e93-8bf2-7dc40ed0daf1",
+  "name": "Limpieza de obra o retiro de escombro",
+  "categories": [
+   {
+    "slug": "active-construction-site",
+    "label": "Construcción"
+   }
+  ]
+ },
+ {
+  "id": "3cabcf51-6361-4120-b23c-8b2f14cf5426",
+  "name": "Clasificación y Acomodo de Bandejas",
+  "categories": [
+   {
+    "slug": "specialty-food-beverage-production",
+    "label": "Producción Especializada de Alimentos y Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "259c555f-ef3f-4f96-86f5-17dfc523de49",
+  "name": "Fumigación o aplicación de agroquímicos",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ },
+ {
+  "id": "3f69019e-ca4b-4fb0-91f0-d55c90cfe799",
+  "name": "Montaje o desmontaje de escenario",
+  "categories": [
+   {
+    "slug": "event-venue",
+    "label": "Eventos o Salas de Espectáculos"
+   }
+  ]
+ },
+ {
+  "id": "40abad4b-6210-4f07-9839-1d368da1aab8",
+  "name": "Recepción o manejo de inventario",
+  "categories": [
+   {
+    "slug": "retail-store-back-of-house",
+    "label": "Comercio Minorista"
+   }
+  ]
+ },
+ {
+  "id": "a05b639c-d964-4358-a0f0-f03e3c698ae8",
+  "name": "Barrido o trapeado de pisos",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "6c806bd9-9b7c-485d-8ee0-ea9a2dde40cd",
+  "name": "Mantenimiento de canchas de tenis o deportivas",
+  "categories": [
+   {
+    "slug": "sports-or-recreation-facility-operations",
+    "label": "Operación de Instalaciones Deportivas o Recreativas"
+   }
+  ]
+ },
+ {
+  "id": "fefce7ba-f867-4011-9003-d41679fcbf09",
+  "name": "Servicio de llantas",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "b244def4-e12c-4592-bb44-53d9ddc6a3cd",
+  "name": "Reemplazo de Clavijeros",
+  "categories": [
+   {
+    "slug": "instrument-device-repair",
+    "label": "Reparación de Electrónica"
+   }
+  ]
+ },
+ {
+  "id": "2adea6c2-6e8e-4604-8690-d79dbab083b2",
+  "name": "Limpieza profunda de tapicería, colchones o alfombras",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "9ef06c48-129b-4154-aade-9ae3b3c31e0e",
+  "name": "Mantenimiento o reparación de vehículos",
+  "categories": [
+   {
+    "slug": "auto-service-tire-shop-car-wash",
+    "label": "Servicios Automotrices"
+   }
+  ]
+ },
+ {
+  "id": "dce84d3e-8dfb-41d2-98f4-6335de81a3cf",
+  "name": "Pintura de paredes",
+  "categories": [
+   {
+    "slug": "active-construction-site",
+    "label": "Construcción"
+   }
+  ]
+ },
+ {
+  "id": "783f6048-d437-423d-b2b7-e3d0c5bf10b4",
+  "name": "Inventario o conteo cíclico",
+  "categories": [
+   {
+    "slug": "warehouse-distribution-center",
+    "label": "Logística, Almacén o Mudanzas"
+   }
+  ]
+ },
+ {
+  "id": "7083b12a-b639-492e-8e6e-1776642785cf",
+  "name": "Instalación o cambio de calentador o ducha",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "768092da-5d5d-4341-9517-bde8267cdc9a",
+  "name": "Pesaje o dosificación",
+  "categories": [
+   {
+    "slug": "food-beverage-manufacturing-plant",
+    "label": "Planta de Alimentos o Bebidas"
+   }
+  ]
+ },
+ {
+  "id": "034e9311-95b7-4138-a90b-f54e2f33a90d",
+  "name": "Soldadura",
+  "categories": [
+   {
+    "slug": "plastic-light-assembly-manufacturer",
+    "label": "Manufactura o Fabricación"
+   }
+  ]
+ },
+ {
+  "id": "6515cac5-4abd-4bc4-8c9e-888b4a353d28",
+  "name": "Limpieza de vidrios o ventanas",
+  "categories": [
+   {
+    "slug": "commercial-cleaning-janitorial",
+    "label": "Limpieza Comercial o Conserjería"
+   }
+  ]
+ },
+ {
+  "id": "5887c97f-731e-4d5a-88cc-24ac3d695eef",
+  "name": "Cableado de contactos o luminarias",
+  "categories": [
+   {
+    "slug": "trade-service-calls-plumbing-hvac-electrical",
+    "label": "Plomería, Climatización o Electricidad"
+   }
+  ]
+ },
+ {
+  "id": "297ea421-b870-4fe2-a9b3-148a63d85d26",
+  "name": "Organización del taller",
+  "categories": [
+   {
+    "slug": "carpentry-furniture-workshop",
+    "label": "Carpintería, Ebanistería o Madera"
+   }
+  ]
+ },
+ {
+  "id": "ef231b90-b5a3-4c48-8deb-f8b029bf8524",
+  "name": "Alimentación de animales",
+  "categories": [
+   {
+    "slug": "agriculture-farm-work-landscaping",
+    "label": "Agricultura o Paisajismo"
+   }
+  ]
+ }
+]
