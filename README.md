@@ -34,6 +34,21 @@ const SHOW_ALL_TASKS = true; // false = solo "Mis tareas"
 
 Los IDs están en `tasks.json`.
 
+## Configurar cada teléfono con sus propias tareas
+
+En el teléfono del empleado, abrir la página y tocar **"Configurar este teléfono"**
+(abajo). Marcar las tareas de esa persona, escribir su nombre (opcional) y tocar
+**Guardar**. La página recarga con un enlace del tipo `?t=f9cdf2b9,dce84d3e&n=Juan`:
+la selección viaja en la URL, así que el ícono de pantalla de inicio la conserva.
+Después: Safari → Compartir → "Agregar a pantalla de inicio" (iPhone) o
+Chrome → ⋮ → "Agregar a pantalla principal" (Android).
+
+Un teléfono configurado muestra solo sus tareas; el catálogo completo queda detrás
+de "Ver todas las tareas". Los códigos de `t` son los primeros 8 caracteres del ID
+de cada tarea (únicos en este catálogo).
+
+Página publicada: https://ryanfain774.github.io/1futuro-minute/
+
 ## Publicar la página
 
 Tiene que estar en una URL normal (https) que los teléfonos abran en Safari o Chrome.
