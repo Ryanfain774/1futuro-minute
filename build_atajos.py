@@ -4,11 +4,12 @@
 Lee tasks.json y la carpeta atajos/ (salida de make_shortcuts.py --all).
 Cada fila enlaza al archivo .shortcut servido desde la misma página publicada.
 """
-import html, json, os, re, urllib.parse
+import html, json, os, re, unicodedata, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 tasks = json.load(open(os.path.join(HERE, "tasks.json"), encoding="utf-8"))
-existing = set(os.listdir(os.path.join(HERE, "atajos")))
+# macOS lista los nombres en NFD; git (precomposeunicode) y GitHub Pages usan NFC.
+existing = {unicodedata.normalize("NFC", f) for f in os.listdir(os.path.join(HERE, "atajos"))}
 
 
 def safe_name(name, task_id):
@@ -22,7 +23,7 @@ def cat(t):
 rows = []
 missing = []
 for t in sorted(tasks, key=lambda t: (cat(t), t["name"])):
-    fn = safe_name(t["name"], t["id"])
+    fn = unicodedata.normalize("NFC", safe_name(t["name"], t["id"]))
     if fn not in existing:
         missing.append(t["name"])
         continue
