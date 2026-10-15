@@ -220,7 +220,8 @@
 
     <footer>
       <span id="phone-label"></span>
-      <button type="button" class="linkbtn" id="open-config">Configurar este teléfono</button>
+      <span style="display:flex;gap:14px;flex-wrap:wrap"><a href="atajos.html" id="atajos-link" style="color:var(--accent)">Atajos para iPhone</a>
+      <button type="button" class="linkbtn" id="open-config">Configurar este teléfono</button></span>
     </footer>
   </div>
 
@@ -410,6 +411,8 @@
     try { sessionStorage.setItem("minute-launcher:configured", "1"); } catch (e) {}
     location.assign(location.pathname + "?" + p.toString());
   });
+  if (isAndroid) $("atajos-link").classList.add("hidden");
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
 </script>
 </body>
 </html>

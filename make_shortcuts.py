@@ -66,7 +66,12 @@ def build(task_id):
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    ids = featured_ids() if args == ["--featured"] else args
+    if args == ["--all"]:
+        ids = list(TASKS.keys())
+    elif args == ["--featured"]:
+        ids = featured_ids()
+    else:
+        ids = args
     if not ids:
         print(__doc__)
         sys.exit(1)
